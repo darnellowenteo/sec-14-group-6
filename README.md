@@ -1,2 +1,8 @@
 # sec-14-group-6
-grup proyek
+group project
+
+members and role:
+
+Poject description:
+we have chosen climate action (sdg13)
+
